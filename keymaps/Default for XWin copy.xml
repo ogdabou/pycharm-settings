@@ -1,0 +1,34 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="ctrl a" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt ampersand" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt #10000e9" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt quotedbl" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="ctrl a" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="left" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="ctrl x" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="ctrl w" />
+  </action>
+</keymap>
